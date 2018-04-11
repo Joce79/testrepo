@@ -1,5 +1,5 @@
 # testrepo
 
-Good Morning
-This is my house
-I like mango
+Good Morning; おはようございます
+This is my house; 僕の家です
+I like mango; マンゴーが好きです
